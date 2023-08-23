@@ -11,3 +11,6 @@ https://github.com/2dust/v2flyNG/releases
 
 Windows:
 https://github.com/Matsuridayo/nekoray/releases
+
+IOS
+https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
